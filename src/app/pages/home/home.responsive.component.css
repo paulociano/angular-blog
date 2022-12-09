@@ -1,0 +1,8 @@
+@media (max-width: 767px)
+{
+    .bar-small-card {
+        flex-direction: column;
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+}

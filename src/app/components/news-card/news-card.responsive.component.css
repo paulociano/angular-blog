@@ -1,0 +1,23 @@
+@media (max-width: 767px)
+{
+    .content-section-news {
+        flex-direction: column;
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+    .right-news {
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    .left-news{
+        width: 100%;
+        margin-bottom:50px;
+    }
+
+    .text-news-right > p, .text-news-right > h4 {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+}
