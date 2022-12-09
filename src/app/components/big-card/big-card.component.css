@@ -13,7 +13,7 @@ a {
     width: 100%vw;
     height: 550px;
     position: relative;
-    background-image: url('https://cdn.mos.cms.futurecdn.net/93c6286cf78770522cb57319d02c80dd.jpg');
+    background-image: url('https://img.freepik.com/fotos-premium/arvore-crescendo-em-vaso-digital-eco-tecnologia-e-convergencia-tecnologica-computacao-verde-tecnologia-verde-ti-verde-csr-e-conceito-de-etica-em-ti_505353-368.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -33,7 +33,8 @@ a {
 
 .info-big-card > span {
     margin-right: 10px;
-    background-color: #F23839;
+    background-color: #00ff00;
+    color:black;
     padding:5px;
     font-size: 10px;
     font-family: 'Courier New', Courier, monospace;
