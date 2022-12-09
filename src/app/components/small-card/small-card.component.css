@@ -1,0 +1,30 @@
+*{
+    font-family: Roboto,cursive;
+    color:#0B0A08;
+}
+
+a {
+    text-decoration: none;
+    color:#0B0A08;
+}
+
+.container-small-card {
+    width: 25%vw;
+    padding: 30px;
+}
+
+.container-small-card > h4 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.container-small-card > span{
+    padding:5px;
+    background-color: #19A9F2;
+    font-size: 10px;
+}
+
+.container-small-card > span, .container-small-card > p {
+    font-size: 12px;
+}
+

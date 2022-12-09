@@ -1,0 +1,55 @@
+*{
+    font-family: Roboto,cursive;
+    background: none;
+    color:#F4E6D9;
+}
+
+a {
+    text-decoration: none;
+    color:#F4E6D9;
+}
+
+.container-big-card {
+    width: 100%vw;
+    height: 550px;
+    position: relative;
+    background-image: url('https://cdn.mos.cms.futurecdn.net/93c6286cf78770522cb57319d02c80dd.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.content-big-card {
+    width: 50%;
+    margin-left: 70px;
+    margin-bottom: 40px;
+    position: absolute;
+    bottom:0;
+}
+
+.info-big-card {
+    display: flex;
+    align-items: center;
+}
+
+.info-big-card > span {
+    margin-right: 10px;
+    background-color: #F23839;
+    padding:5px;
+    font-size: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.info-big-card > p {
+    margin-right: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 12px;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+p{
+    font-size: 14px;
+}

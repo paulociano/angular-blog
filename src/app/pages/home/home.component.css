@@ -1,0 +1,12 @@
+.bar-small-card {
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.section-news-card{
+    margin-top: 70px;
+    margin-left: 70px;
+    margin-right: 70px;
+}

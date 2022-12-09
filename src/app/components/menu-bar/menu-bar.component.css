@@ -1,0 +1,40 @@
+*{
+    font-family:Roboto, cursive;
+    font-size: 14px;
+}
+
+a{
+    text-decoration: none;
+    color:#0B0A08;
+    font-weight: bold;
+}
+
+.container-menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    min-height: 70px;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    margin-right: 200px;
+    margin-left: 200px;
+    align-items: center;
+}
+
+li {
+    list-style: none;
+    margin-right: 30px;
+}
+
+li > img {
+    width: 40px;
+}
+
+img {
+    width: 20px;
+}
+
